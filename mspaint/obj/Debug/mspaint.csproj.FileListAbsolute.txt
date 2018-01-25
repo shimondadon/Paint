@@ -1,0 +1,17 @@
+E:\Visual Studio 2008\Projects\paint\mspaint\mspaint\bin\Debug\mspaint.exe
+E:\Visual Studio 2008\Projects\paint\mspaint\mspaint\bin\Debug\mspaint.pdb
+E:\Visual Studio 2008\Projects\paint\mspaint\mspaint\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\paint\mspaint\mspaint\obj\Debug\mspaint.Form1.resources
+E:\Visual Studio 2008\Projects\paint\mspaint\mspaint\obj\Debug\mspaint.Properties.Resources.resources
+E:\Visual Studio 2008\Projects\paint\mspaint\mspaint\obj\Debug\mspaint.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\paint\mspaint\mspaint\obj\Debug\mspaint.exe
+E:\Visual Studio 2008\Projects\paint\mspaint\mspaint\obj\Debug\mspaint.pdb
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\obj\Debug\mspaint.exe
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\obj\Debug\mspaint.pdb
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\obj\Debug\mspaint.Form1.resources
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\obj\Debug\mspaint.Properties.Resources.resources
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\obj\Debug\mspaint.csproj.GenerateResource.Cache
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\bin\Debug\mspaint.exe
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\bin\Debug\mspaint.pdb
+E:\Visual Studio 2008\Projects\paint\mspaint זה עם קוד מסודר יותר\mspaint\bin\Debug\mspaint.exe.config
