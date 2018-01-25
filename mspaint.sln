@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mspaint", "mspaint\mspaint.csproj", "{5C6BEEDD-A5BE-45C0-BFF6-2583B0F55B5A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{B4E68E95-9B00-47A1-90B1-6EB7912B45BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6BEEDD-A5BE-45C0-BFF6-2583B0F55B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6BEEDD-A5BE-45C0-BFF6-2583B0F55B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6BEEDD-A5BE-45C0-BFF6-2583B0F55B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6BEEDD-A5BE-45C0-BFF6-2583B0F55B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E68E95-9B00-47A1-90B1-6EB7912B45BA}.Debug|Any CPU.ActiveCfg = Debug
+		{B4E68E95-9B00-47A1-90B1-6EB7912B45BA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
